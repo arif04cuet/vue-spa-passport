@@ -2,7 +2,7 @@
   <div id="app" class="">
     <nav class="navbar navbar-expand navbar-dark bg-dark">
       <div class="container">
-        <a href class="navbar-brand" @click.prevent>bezKoder</a>
+        <a href class="navbar-brand" @click.prevent>Vue SPA</a>
 
         <div v-if="!currentUser" class="navbar-nav ml-auto">
           <li class="nav-item">
